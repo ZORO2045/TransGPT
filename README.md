@@ -5,7 +5,7 @@ Welcome to our AI Translation Platform! This platform is designed to provide hig
 
 ## About
 
-Our AI Translation Platform offers advanced translation capabilities powered by cutting-edge AI technology. While the application currently supports translation, we're excited to announce that the ability to upload txt files will be available in upcoming updates. In the meantime, you can seamlessly upload txt files directly on our website without any hassles.
+Our AI Translation Platform offers advanced translation capabilities powered by cutting-edge AI technology. While the application currently supports translation,you can download app from [here].(https://github.com/ZORO2045/TransGPT/releases), we're excited to announce that the ability to upload txt files will be available in upcoming updates. In the meantime, you can seamlessly upload txt files directly on our website without any hassles.
 
 ## Getting Started
 

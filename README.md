@@ -15,5 +15,5 @@ To start using our AI Translation Platform, simply visit [our website](https://z
 
 Have questions or feedback? Feel free to reach out to us on [Telegram](https://t.me/ZORO2045). We value your input and are here to assist you!
 
-Thank you for choosing our AI Translation Platform! ♥
+Thank you for choosing our AI Translation Platform! ♥.
 

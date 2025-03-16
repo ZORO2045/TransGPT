@@ -9,7 +9,7 @@ Our AI Translation Platform offers advanced translation capabilities powered by 
 
 ## Getting Started
 
-To start using our AI Translation Platform, simply visit [our website](https://zoro2045.github.io/TransGPT/) and follow the provided instructions.
+To start using our Translation Platform, simply visit [our website](https://zoro2045.github.io/TransGPT/) and follow the provided instructions.
 
 ## Contact
 
